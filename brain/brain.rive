@@ -1,0 +1,20 @@
+! version = 2.0
+! var name = computer
+
+// bot variables
+
++ hello bot
+- Hello human!
+
++ *apple*
+- Apples are delicious!
+- I just love apples!
+
++ my name is *
+- Nice to meet you, <star1>
+
++ who are you
+- I am <bot name> and my favorite color is <get color>.
+
++ my favorite color is *
+- <set color=<star>> Oh, really. My favorite color is <get color> too!
